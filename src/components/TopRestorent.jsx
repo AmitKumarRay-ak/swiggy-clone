@@ -20,7 +20,7 @@ export default function TopRestorent() {
       <div className="max-w-[1200px] mx-auto p-2">
         <div className="flex items-center justify-between">
           <div className="text-[25px] font-bold">
-            Top Restaurants In Bhojpur.
+            Top Restaurants In Bhojpur
           </div>
           <div className="flex">
             <div
